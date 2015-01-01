@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabella titolo="tabella verbi">
+<verbo>
+<voce>Laudaremus</voce>
+<forma>attiva</forma> 
+<modo>congiuntivo</modo>
+<tempo>imperfetto</tempo>
+<persona>1</persona>
+<numero>plurale</numero>
+</verbo>
+<verbo>
+<voce>Laudaverint</voce>
+<forma>attiva</forma> 
+<modo>congiuntivo</modo>
+<tempo>perfetto</tempo>
+<persona>3</persona>
+<numero>plurale</numero>
+</verbo>
+<verbo>
+<voce>Laudavisses</voce>
+<forma>attiva</forma> 
+<modo>congiuntivo</modo>
+<tempo>piuccheperfetto</tempo>
+<persona>2</persona>
+<numero>singolare</numero>
+</verbo>
+</tabella>
